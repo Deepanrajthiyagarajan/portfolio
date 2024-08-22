@@ -1,0 +1,179 @@
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
+.navitems{
+  display: flex;
+  width: 450px;
+  justify-content: space-around;
+     }
+.black{
+  height: 300px;
+  background-color: black;
+  color:white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 0px;
+}
+.d1,.d2{
+  width: 500px;
+}
+
+.con{
+  height: 550px;
+  display: flex;
+}
+img{
+  padding: 110px 60px;
+}
+.d3{
+  margin-top: 80px;
+
+  
+}
+button{
+ background-color: cadetblue;
+ border-style:solid;
+ width: 150px;
+ height: 40px;
+ margin-left: 200px;
+ color:black;
+}
+.s1{
+  opacity: 0.5;
+}
+.line{
+  font-style: italic;   
+}
+.profile
+{
+  background-image: url(./blacktemp.jpg);
+  height: 420px;
+  background-color: antiquewhite;
+}
+
+.profile1
+{
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 1px;
+  background-color: black;
+
+}
+.pro1
+{
+  width: 200px;
+  height: 200px;
+  background-color: aliceblue;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 60px;
+}
+.pro2
+{
+  width: 200px;
+  height: 200px;
+  background-color: aliceblue;
+  border-radius: 25px;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pro3
+{
+  width: 200px;
+  height: 200px;
+  background-color: aliceblue;
+  border-radius: 25px;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.totpro
+{
+  display: flex;
+  justify-content: space-around;
+}
+.skills
+{
+height:350px;
+background-color:darkgray;  
+}
+.head3
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.para
+{
+  display: flex;
+  justify-content: space-around;
+}
+.html
+{
+  height: 8px;
+  width: 130px;
+  background-color: black;
+}
+.css
+{
+  height: 8px;
+  width: 130px;
+  background-color: black;
+}
+.java
+{
+  height: 8px;
+  width: 110px;
+  background-color: black;
+}
+.js
+{
+  height: 8px;
+  width: 110px;
+  background-color: black;
+}
+.eng
+{
+  height: 8px;
+  width: 110px;
+  background-color: black;
+}
+.tam
+{
+  height: 8px;
+  width: 130px;
+  background-color: black;
+}
+.twoskill
+{
+  display: flex;
+  justify-content: space-around;
+}
+.contact
+{
+  height: 100px;
+  background-color: black;
+}
+.co
+{
+  display: flex;
+}
+.down
+{
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  border-radius: 5px;
+}
